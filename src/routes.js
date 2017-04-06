@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, IndexRoute, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 import App from './components/app';
 
 export default (
